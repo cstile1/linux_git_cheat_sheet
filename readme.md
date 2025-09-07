@@ -21,4 +21,7 @@ Description: Creates an empty file or updates file timestamps.
 Description: Prints the current working directory. 
 
 ### 7. mv
-Description: Moves/renames files and directories. 
+Description: Moves/renames files and directories.
+
+### 8. cp
+Description: Copies files and directories.  
