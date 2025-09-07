@@ -48,4 +48,7 @@ Description: Merges the changes you made from the specified branch into the curr
 
 ### 15. git push [alias] [branch]
 Description: Pushes your local branch commits to the remote repository branch, such as GitHub.
+
+### 16. git pull
+Description: Fetches and merges any commits from the remote branch into your current working branch. 
  
