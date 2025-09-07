@@ -45,4 +45,7 @@ Description: Shows the modified files in your working directory, staged for your
 
 ### 14. git merge [branch]
 Description: Merges the changes you made from the specified branch into the current one. 
+
+### 15. git push [alias] [branch]
+Description: Pushes your local branch commits to the remote repository branch, such as GitHub.
  
