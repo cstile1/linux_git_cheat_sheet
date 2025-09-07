@@ -34,3 +34,5 @@ Description: Initializes an existing directory as a Git repository.
 ### 10. git branch [branch-name]
 Description: Creates a new branch that is at the current commit.
 
+### 11. git commit -m "[descriptive message]"
+Description: Commits and saves your staged content as a new commit snapshot with a descriptive message.
