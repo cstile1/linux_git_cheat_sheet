@@ -38,4 +38,8 @@ Description: Creates a new branch that is at the current commit.
 Description: Commits and saves your staged content as a new commit snapshot with a descriptive message.
 
 ### 12. git checkout
-Description: Switches to another branch in your repository and checks it out into your working directory. 
+Description: Switches to another branch in your repository and checks it out into your working directory.
+
+### 13. git status
+Description: Shows the modified files in your working directory, staged for your next commit. 
+ 
