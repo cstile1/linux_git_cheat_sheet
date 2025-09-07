@@ -42,4 +42,7 @@ Description: Switches to another branch in your repository and checks it out int
 
 ### 13. git status
 Description: Shows the modified files in your working directory, staged for your next commit. 
+
+### 14. git merge [branch]
+Description: Merges the changes you made from the specified branch into the current one. 
  
