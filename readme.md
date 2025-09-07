@@ -36,3 +36,6 @@ Description: Creates a new branch that is at the current commit.
 
 ### 11. git commit -m "[descriptive message]"
 Description: Commits and saves your staged content as a new commit snapshot with a descriptive message.
+
+### 12. git checkout
+Description: Switches to another branch in your repository and checks it out into your working directory. 
