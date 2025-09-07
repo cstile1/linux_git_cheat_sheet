@@ -19,3 +19,6 @@ Description: Creates an empty file or updates file timestamps.
 
 ### 6. pwd
 Description: Prints the current working directory. 
+
+### 7. mv
+Description: Moves/renames files and directories. 
