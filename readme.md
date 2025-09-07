@@ -12,4 +12,7 @@ Description: Changes directory.
 Description: Creates a new directory.
 
 ### 4. rm
-Description: Removes files and directories. 
+Description: Removes files and directories.
+
+### 5. touch
+Description: Creates an empty file or updates file timestamps.  
