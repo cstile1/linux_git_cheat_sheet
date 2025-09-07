@@ -25,3 +25,8 @@ Description: Moves/renames files and directories.
 
 ### 8. cp
 Description: Copies files and directories.  
+
+## Git Commands
+
+### 9. git init
+Description: Initializes an existing directory as a Git repository.
