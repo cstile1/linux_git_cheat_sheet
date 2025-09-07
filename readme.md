@@ -7,3 +7,6 @@ Description: Lists files and directories.
 
 ### 2. cd
 Description: Changes directory.
+
+### 3. mkdir
+Description: Creates a new directory.
