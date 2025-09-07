@@ -15,4 +15,7 @@ Description: Creates a new directory.
 Description: Removes files and directories.
 
 ### 5. touch
-Description: Creates an empty file or updates file timestamps.  
+Description: Creates an empty file or updates file timestamps. 
+
+### 6. pwd
+Description: Prints the current working directory. 
