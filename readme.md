@@ -106,7 +106,8 @@ git merge pwd   # merges the pwd branch into the current branch.
 Description: Pushes your local branch commits to the remote repository branch, such as GitHub.
 Example:
 ```bash
-git push origin main   # pushes the local main to the remote main, such as GitHub.```
+git push origin main   # pushes the local main to the remote main, such as GitHub.
+```
 
 ### 16. git pull
 Description: Fetches and merges any commits from the remote branch into your current working branch. 
