@@ -4,3 +4,6 @@
 
 ### 1. ls
 Description: Lists files and directories.
+
+### 2. cd
+Description: Changes directory.
