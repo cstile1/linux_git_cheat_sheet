@@ -30,3 +30,7 @@ Description: Copies files and directories.
 
 ### 9. git init
 Description: Initializes an existing directory as a Git repository.
+
+### 10. git branch [branch-name]
+Description: Creates a new branch that is at the current commit.
+
